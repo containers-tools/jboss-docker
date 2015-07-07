@@ -1,4 +1,4 @@
-FROM cct-jboss/base7-jdk8:latest
+FROM cctjboss/base7-jdk8:latest
 
 # Set the WILDFLY_VERSION env variable
 ENV WILDFLY_VERSION 8.2.0.Final
